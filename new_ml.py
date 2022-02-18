@@ -54,4 +54,3 @@ print("Accuracy score is. {:.1f}".format(result))
 print("Accuracy score is. {:.1f}".format(result1))
 # save our classifier in the model directory
 joblib.dump(classifier, os.path.join(config["model_directory"], config["model_name"]))
-joblib.dump(clf, os.path.join(config["model_directory"], config["model_name"]))

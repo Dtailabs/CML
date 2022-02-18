@@ -15,5 +15,5 @@ leaf_size: 15
 p: 2
 metric: minkowski
 n_jobs: 1
-start: 200
-end:  400
+start: 0 
+end:  

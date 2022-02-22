@@ -8,7 +8,7 @@ random_state: 123
 model_directory: "Models/"
 model_name: KNN_classifier.pkl
 #kNN parameters
-n_neighbors: 5
+n_neighbors: 10
 weights: uniform
 algorithm: auto
 leaf_size: 15
